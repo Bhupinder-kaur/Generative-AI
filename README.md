@@ -1,4 +1,5 @@
-Generative AI Models Project
+#Generative AI Models Project
+
 This repository contains a detailed exploration of generative AI models, demonstrated through a Jupyter notebook. The project focuses on implementing cutting-edge generative algorithms to create synthetic data in various formats, showcasing their potential in creative and practical applications.
 
 Project Overview
